@@ -1,0 +1,9 @@
+#include <windows.h>
+#include "resources.h"
+
+APP_ICON ICON "arkanoid.ico"
+
+SOUND_PADDLE_HIT WAVE "sounds/paddle_hit.wav"
+SOUND_HIT_BRICK WAVE "sounds/hit_brick.wav"
+SOUND_LIFE_LOST WAVE "sounds/life_lost.wav"
+SOUND_POWERUP WAVE "sounds/powerup.wav"
